@@ -199,7 +199,7 @@ function PanelClima({ datos, volverInicio }) {
                 {/* Botón para volver a la pantalla de bienvenida */}
                 <button onClick={volverInicio} className="btn-volver">
                     ← Volver al inicio
-                    npm install --save-dev gh-pages                    npm install --save-dev gh-pages            </button>
+                </button>
             </div>
         </div>
     );
